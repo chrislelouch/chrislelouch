@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @chrislelouch
-- 👀 I’m interested in Operating system and networking
+- 👀 I’m interested in Operating system and networking, C and python programming languages 
 - 🌱 I’m currently learning Wireless sensor network
 - 💞️ I’m looking to collaborate on all about IoT oparating system
 - 📫 How to reach me : telegram @Equato_lelouch, @chrislelouch on git
